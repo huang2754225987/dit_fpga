@@ -1,0 +1,6 @@
+build/supra2_dit_ddr_image/supra2_dit_ddr_layout.sv
+rtl/supra2/supra2_axi_read_dma.sv
+rtl/supra2/supra2_dit_runtime_controller.sv
+rtl/supra2/supra2_dicache_online_policy.sv
+rtl/supra2/supra2_dit_runtime_dma.sv
+rtl/supra2/supra2_dit_weight_stage_loader.sv

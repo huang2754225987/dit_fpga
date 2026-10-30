@@ -1,0 +1,2 @@
+rtl/supra2/supra2_dicache_online_policy.sv
+rtl/sim/tb_supra2_dicache_online_policy.sv

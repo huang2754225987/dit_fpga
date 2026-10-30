@@ -1,0 +1,2 @@
+build/supra2_dit_ddr_image/supra2_dit_ddr_layout.sv
+rtl/supra2/supra2_dit_qlinear_descriptor.sv

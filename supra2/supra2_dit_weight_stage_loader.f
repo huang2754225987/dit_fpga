@@ -1,0 +1,2 @@
+build/supra2_dit_ddr_image/supra2_dit_ddr_layout.sv
+rtl/supra2/supra2_dit_weight_stage_loader.sv

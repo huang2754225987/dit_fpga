@@ -1,0 +1,10 @@
+rtl/pkg/isa_pkg.sv
+rtl/pkg/fp16_utils_pkg.sv
+rtl/ops/graph_exp_lut_fp164k.sv
+rtl/ops/recip_lut4k.sv
+rtl/ops/softmax_engine.sv
+rtl/gemm/mac_int8.sv
+rtl/gemm/pe.sv
+rtl/gemm/systolic_array.sv
+rtl/supra2/attention_online_pv.sv
+rtl/sim/tb_supra2_attention_online_pv.sv
